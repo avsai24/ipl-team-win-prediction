@@ -1,1 +1,4 @@
-# ipl-team-win-prediction
+- ####	Implemented IPL Win Prediction Model: Demonstrated expertise in data analysis and feature engineering by transforming raw data into informative features. 
+-	#### Conducted in-depth IPL dataset analysis, addressing null values, and thoroughly describing feature columns. Visualized dataset trends, teams, matches, and toss decisions. 
+-	#### Applied advanced preprocessing techniques, including encoding categorical features, and handling null values. 
+-	#### Developed and evaluated a robust RandomForestClassifier model for accurate IPL win predictions."
